@@ -1,2 +1,3 @@
 # Smart-india-hackathon-2018
-Presence tracking
+Participated in Smart India Hackathon 2018 under the problem statement provided by Government of Delhi. It was to track the presence of staffs posted at liquor vends. We used face recognition technology to recognize the person. When the person is not detected for more than a given time slot a message will be sent to the admin. A mobile app was created for user interface  which uses REST API's and can be used in real time staff monitoring system . The domains under our project were IOT and Mobile Application. My role in this project was to recognize the face and send sms message to the admin incase of absence.
+
